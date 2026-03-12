@@ -9,12 +9,6 @@ The application fetches real-time weather data from a weather API and displays i
 
 ---
 
-## 📸 Preview
-
-<img width="700" alt="weather app preview" src="https://user-images.githubusercontent.com/placeholder/weather-app-preview.png">
-
----
-
 ## 🚀 Features
 
 * 🔍 Search weather by city name
